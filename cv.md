@@ -13,3 +13,9 @@
 
 ## Summary
 I am excited to be a part of a community that values innovation, creativity, and collaboration. Currently I'm working as an accountant. With my responsibility, attention to detail, and willingness to learn, I am confident that I can make a valuable contribution to any team that I join as a junior front-end developer.
+
+## SKILLS
+* __Web-Development:__ HTML, CSS, JavaScript, Sass, React, TypeScript, NodeJS, jQuery, AJAX
+* __Framework and Libraries:__ React, jQuery
+* __Version Control:__ Git
+* __Graphics:__ Figma
