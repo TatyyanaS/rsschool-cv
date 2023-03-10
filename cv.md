@@ -1,8 +1,6 @@
 # SEDENKO TATYANA  
 ### Junior Frontend Developer
 
-
-
 ## Contacts
 
 * __Location:__ Almaty, Kazakhstan
@@ -20,8 +18,8 @@ I am excited to be a part of a community that values innovation, creativity, and
 * __Version Control:__ Git
 * __Graphics:__ Figma
 
-## 
-* __Udemy^__TypeScript
+## Courses
+* __Udemy:__TypeScript
 * __Udemy:__ JavaScript/React
 * __It Gid:__ Java Script
 * __It Gid:__ Java Script Functions
