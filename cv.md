@@ -6,9 +6,9 @@
 ## Contacts
 
 * __Location:__ Almaty, Kazakhstan
-* taty.yana.kz@gmail.com
-* +7 701 602-41-44
-* @TatyyanaS
+* __Email:__ taty.yana.kz@gmail.com
+* __Number:__ +7 701 602-41-44
+* __GitHub:__ @TatyyanaS
 
 
 ## Summary
