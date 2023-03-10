@@ -1,2 +1,2 @@
-#SEDENKO TATYANA  
-###Junior Frontend Developer
+# SEDENKO TATYANA  
+### Junior Frontend Developer
