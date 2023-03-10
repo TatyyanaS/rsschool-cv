@@ -19,10 +19,10 @@ I am excited to be a part of a community that values innovation, creativity, and
 * __Graphics:__ Figma
 
 ## Courses
-* __Udemy:__TypeScript
+* __Udemy:__ TypeScript
 * __Udemy:__ JavaScript/React
 * __It Gid:__ Java Script
-* __It Gid:__ Java Script Functions
+* __It Gid:__ JS Functions
 * __It Gid:__ JS Array Methods
-* __It Gid:__ Java Script OOP
+* __It Gid:__ JS OOP
 * __It Gid:__ Node JS
