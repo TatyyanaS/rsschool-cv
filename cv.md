@@ -5,7 +5,11 @@
 
 ## Contacts
 
-* Location: Almaty, Kazakhstan
+* __Location:__ Almaty, Kazakhstan
 * taty.yana.kz@gmail.com
 * +7 701 602-41-44
 * @TatyyanaS
+
+
+## Summary
+I am excited to be a part of a community that values innovation, creativity, and collaboration. Currently I'm working as an accountant. With my responsibility, attention to detail, and willingness to learn, I am confident that I can make a valuable contribution to any team that I join as a junior front-end developer.
