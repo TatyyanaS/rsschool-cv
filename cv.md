@@ -19,6 +19,7 @@ Currently I'm working as an accountant. I am looking for an opportunity to join 
 * Java Script, It Gid
 * Java Script, React, Udemy
 * TypeScript, Udemy
+* JS/FE Pre-School 2023Q2, RSS
 
 ***
 
