@@ -2,7 +2,10 @@
 
 ### _Junior Frontend Developer_
 ***
-
+* Location: Almaty, Kazakhstan
+* E-mail: taty.yana.kz@gmail.com
+* GitHub: [@TatyyanaS](https://github.com/TatyyanaS)
+* Discord: TatyyanaS#6100 
 
 ***
 
@@ -22,6 +25,7 @@ Currently I'm working as an accountant. I am looking for an opportunity to join 
 ## Skills
 * __Web-Development:__ HTML, CSS, JavaScript, Sass, React, TypeScript
 * __Version Control:__ Git
+* __Graphics:__ Figma
 
 ***
 
