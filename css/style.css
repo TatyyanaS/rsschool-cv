@@ -69,7 +69,7 @@ header {
   display: flex;
   margin-top: 5vh;
   margin-bottom: 3vh;
-  justify-content: center
+  justify-content: center;
 }
 
 .photo-box {
